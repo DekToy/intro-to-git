@@ -15,3 +15,8 @@ Git คือ Version Control ที่ใช้ควบคุมการเ�
 ## Hohoho I LIKE THIS STOCK! $GME TO THE MOON
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+
+wtf is git rebase
+    git reset
+    git pull
